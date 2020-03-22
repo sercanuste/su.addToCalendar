@@ -1,0 +1,25 @@
+su.addToCalendar.js
+-------------------
+Calendar Event Creator
+Version: 1.0
+Date: 11.02.2016
+
+Author: Sercan Uste
+WebSite: www.sercanuste.com
+
+
+Supported Calendar Services
+---------------------------
+- iCalendar
+- Outlook
+- Gmail
+
+
+History
+-------
+
+v1.0 - 11.02.2016
+-----------------
+- iCalendar support
+- Outlook support
+- Gmail support

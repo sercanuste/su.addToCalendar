@@ -1,0 +1,53 @@
+Name
+----
+su.addToCalendar - Calendar Event Creator
+
+Description
+-----------
+su.addToCalendar is a simple event creator plugin for calendar services. It supports iCalendar(.ics) format which supports most of mail applications, Gmail and Outlook Online. Made with jQuery.
+
+You can use any HTML element with this plugin. It just needs attributes on element and initialization script on page.
+
+Category
+--------
+JavaScript - Calendars
+
+Compatible Browsers
+-------------------
+N/A
+
+High Resolution
+---------------
+N/A
+
+Files Included
+--------------
+JavaScript JS
+HTML
+CSS
+
+Software Version
+----------------
+jQuery
+
+Demo URL
+--------
+http://market.sercanuste.com/su/AddToCalendar/
+
+Tags
+----
+calendar, ics, jquery, outlook, gmail, event creator, calendar event, event
+
+Message to the Reviewer
+-----------------------
+
+Hi,
+
+1. Consider using the preferred .on() rather than .click(), .bind(), .hover(), etc.
+I changed my code.
+
+2. Can you provide an example on the demo page?
+http://market.sercanuste.com/su/AddToCalendar/
+
+3. The documentation isn't sufficient. Please include installation instructions.
+I include instructions.
