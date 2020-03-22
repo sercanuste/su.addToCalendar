@@ -40,7 +40,7 @@ var su = (function () {
             var calendarServices = {
                 outlook: {
                     event: {
-                        base: 'https://calendar.live.com/calendar/calendar.aspx?rru=addevent&summary=' + fields.title + '&location=' + fields.location + '&description=' + fields.description + '&dtstart=' + fields.startDate + '&dtend=' + fields.endDate,
+                        base: 'https://outlook.live.com/owa/?path=/calendar/action/compose&rru=addevent=addevent&subject=' + fields.title + '&location=' + fields.location + '&body=' + fields.description + '&startdt=' + fields.startDate + '&enddt=' + fields.endDate,
                         type: contentTypes.link
                     }
                 },
