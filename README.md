@@ -5,7 +5,7 @@ Calendar Event Creator
 
 su.addToCalendar is a simple event creator for calendar services. It supports iCalendar(.ics) format which supports most of mail applications, Gmail and Outlook Online.
 
-[Live Preview](https://market.sercanuste.com/SU/AddToCalendar/index.html)
+[Live Preview](https://sercanuste.github.io/su.addToCalendar/)
 
 ### Snippet
 
